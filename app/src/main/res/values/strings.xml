@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PeliPedia</string>
+    <string name="et_movie_name">Movie Name</string>
+    <string name="movie_title_string">Title</string>
+    <string name="rate_ex_string">Rate</string>
+    <string name="lorem_30_string">Texto</string>
+    <string name="runtime_ex_string">Runtime</string>
+</resources>
